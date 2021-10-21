@@ -12,7 +12,8 @@ Track on the path for the structuralia degree program
 * Arquitecturas tecnológicas Big Data
 * Big Data analytics
 ---
->STARTED (6%)
+>STARTED
+>![6%](https://progress-bar.dev/6)
 ### MÓDULO 2: TABLEAU
 * Introducción
 * Primeros pasos
@@ -33,6 +34,7 @@ Track on the path for the structuralia degree program
 * Diseño de un Datawarehouse
 ---
 >(**FINALIZADO**) [Certificado Badge](https://cv.iklox.com/badges/badge.php?hash=65029f7d11c73b00bd8c5b6f22435205ac3640b8)
+>![100%](https://progress-bar.dev/100)
 ### MÓDULO 4: PYTHON Y R
 * Tratamiento de datos en python
 * Estructuras y funciones en Python. Programación orientada a objetos
