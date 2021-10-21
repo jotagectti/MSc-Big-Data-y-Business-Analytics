@@ -24,10 +24,10 @@ Track on the path for the structuralia degree program
 * Depuración y normalización de datos
 
 ### MÓDULO 3: BASES DE DATOS RELACIONALES: SQL. DATAWAREHOUSE
-*Primeros pasos en SQL
-*Comandos SQL
-*Funciones SQL
-*Diseño de un Datawarehouse
+* Primeros pasos en SQL
+* Comandos SQL
+* Funciones SQL
+* Diseño de un Datawarehouse
 
 ### MÓDULO 4: PYTHON Y R(**FINALIZADO**)
 * Tratamiento de datos en python
