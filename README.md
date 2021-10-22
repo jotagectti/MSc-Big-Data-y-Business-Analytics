@@ -5,7 +5,8 @@ Track on the path for the structuralia degree program
 
 # **Programa**
 ---
->Pendiente
+>STARTED
+>![46%](https://progress-bar.dev/46)
 ### MÓDULO 1: INTRODUCCIÓN AL BIG DATA
 * Los datos en las empresas
 * Del Business intelligence al Big Data
@@ -13,7 +14,7 @@ Track on the path for the structuralia degree program
 * Big Data analytics
 ---
 >STARTED
->![6%](https://progress-bar.dev/6)
+>![18%](https://progress-bar.dev/18)
 ### MÓDULO 2: TABLEAU
 * Introducción
 * Primeros pasos
@@ -55,7 +56,8 @@ Track on the path for the structuralia degree program
 * Programación en Scala
 * RDD, daraframes, darasets y machine learning
 ---
->Pendiente
+>STARTED
+>![8%](https://progress-bar.dev/8)
 ### MÓDULO 7: DATA MINING, MACHINE LEARNING Y DEEP LEARNING
 * Aprendizaje supervisado (I)
 * Aprendizaje supervisado (II)
