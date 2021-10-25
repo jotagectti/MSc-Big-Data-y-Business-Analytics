@@ -5,7 +5,7 @@ Track on the path for the structuralia degree program
 
 # **Programa**
 ---
->STARTED
+>(**FINALIZADO**) [Certificado Badge](https://cv.iklox.com/badges/badge.php?hash=10475b2506819509cfba1797e89d9541cd78c294)
 >![46%](https://progress-bar.dev/46)
 ### MÓDULO 1: INTRODUCCIÓN AL BIG DATA
 * Los datos en las empresas
@@ -14,7 +14,7 @@ Track on the path for the structuralia degree program
 * Big Data analytics
 ---
 >STARTED
->![18%](https://progress-bar.dev/18)
+>![16%](https://progress-bar.dev/16)
 ### MÓDULO 2: TABLEAU
 * Introducción
 * Primeros pasos
