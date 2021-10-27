@@ -65,7 +65,7 @@ Track on the path for the structuralia degree program
 * Deep Learning
 ---
 >STARTED
->![15%](https://progress-bar.dev/15)
+>![39%](https://progress-bar.dev/39)
 ### MÓDULO 8: DATA MANAGEMENT
 * Data Management    
 * Planificación y diseño    
