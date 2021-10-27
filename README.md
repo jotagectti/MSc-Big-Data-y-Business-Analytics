@@ -57,7 +57,7 @@ Track on the path for the structuralia degree program
 * RDD, daraframes, darasets y machine learning
 ---
 >STARTED
->![38%](https://progress-bar.dev/38)
+>![67%](https://progress-bar.dev/67)
 ### MÓDULO 7: DATA MINING, MACHINE LEARNING Y DEEP LEARNING
 * Aprendizaje supervisado (I)
 * Aprendizaje supervisado (II)
