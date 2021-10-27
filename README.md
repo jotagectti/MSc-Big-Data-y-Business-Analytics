@@ -64,8 +64,8 @@ Track on the path for the structuralia degree program
 * Aprendizaje no supervisado
 * Deep Learning
 ---
->STARTED
->![39%](https://progress-bar.dev/39)
+>(**FINALIZADO**) [Certificado Badge](https://cv.iklox.com/badges/badge.php?hash=df87e2e67f637b0ec4196d2e6ce53423c7a86156)
+>![100%](https://progress-bar.dev/100)
 ### MÓDULO 8: DATA MANAGEMENT
 * Data Management    
 * Planificación y diseño    
