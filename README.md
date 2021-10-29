@@ -14,7 +14,7 @@ Track on the path for the structuralia degree program
 * Big Data analytics
 ---
 >STARTED
->![23%](https://progress-bar.dev/23)
+>![30%](https://progress-bar.dev/30)
 ### MÓDULO 2: TABLEAU
 * Introducción
 * Primeros pasos
@@ -27,7 +27,8 @@ Track on the path for the structuralia degree program
 * Cuadros de mando
 * Depuración y normalización de datos
 ---
->Pendiente
+>STARTED
+>![12%](https://progress-bar.dev/12)
 ### MÓDULO 3: BASES DE DATOS RELACIONALES: SQL. DATAWAREHOUSE
 * Primeros pasos en SQL
 * Comandos SQL
