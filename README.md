@@ -43,7 +43,7 @@ Track on the path for the structuralia degree program
 * Tratamientos de datos R
 * Estructuras avanzadas en R
 ---
->STARTED
+>(**FINALIZADO**) [Certificado Badge](https://cv.iklox.com/badges/badge.php?hash=1c5503da4d6884f653195ef4583c8e528f4f54e9)
 >![100%](https://progress-bar.dev/100)
 ### MÓDULO 5: BASES DE DATOS NOSQL Y HDFS
 * Introducción BBDD NOSQL     
