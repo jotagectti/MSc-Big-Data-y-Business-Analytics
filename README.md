@@ -44,7 +44,7 @@ Track on the path for the structuralia degree program
 * Estructuras avanzadas en R
 ---
 >STARTED
->![40%](https://progress-bar.dev/40)
+>![100%](https://progress-bar.dev/100)
 ### MÓDULO 5: BASES DE DATOS NOSQL Y HDFS
 * Introducción BBDD NOSQL     
 * Modelos de datos NOSQL     
